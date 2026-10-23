@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 // Pages
 import Home from "./pages/Home";
@@ -54,6 +55,7 @@ export default function App() {
         <main className="flex-1 flex flex-col">
           <AnimatedRoutes />
         </main>
+        <Footer />
       </div>
     </BrowserRouter>
   );
