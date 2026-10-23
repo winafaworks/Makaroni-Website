@@ -50,7 +50,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <ScrollToTop />
-      <div className="min-h-screen flex flex-col bg-keju text-tua selection:bg-mentega selection:text-tua relative">
+      <div className="min-h-screen flex flex-col bg-keju doodle-pattern text-tua selection:bg-mentega selection:text-tua relative">
         <Header />
         <main className="flex-1 flex flex-col">
           <AnimatedRoutes />
