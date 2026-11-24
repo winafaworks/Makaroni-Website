@@ -53,13 +53,13 @@ export default function About() {
           {/* Nilai Produk */}
           <div className="mt-10 pt-6 border-t border-tua/20 grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="p-4 rounded-md bg-mentega/30 border border-tua/15">
-              <h4 className="font-judul text-base text-tua mb-1">=ƒºÇ Rasa Keju Otentik</h4>
+              <h4 className="font-judul text-base text-tua mb-1">ðŸ§€ Rasa Keju Otentik</h4>
               <p className="text-xs text-karamel leading-relaxed">
                 Rasa gurih keju yang pas di lidah, tidak berlebihan, dan gurih sampai gigitan terakhir.
               </p>
             </div>
             <div className="p-4 rounded-md bg-mentega/30 border border-tua/15">
-              <h4 className="font-judul text-base text-tua mb-1">G£¿ Selalu Renyah</h4>
+              <h4 className="font-judul text-base text-tua mb-1">âœ¨ Selalu Renyah</h4>
               <p className="text-xs text-karamel leading-relaxed">
                 Diproduksi dengan teknik penggorengan dan pengemasan higienis agar kerenyahan terjaga.
               </p>
